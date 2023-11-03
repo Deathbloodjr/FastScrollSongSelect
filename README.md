@@ -1,4 +1,8 @@
 # FastScrollSongSelect
+| Mono | IL2CPP |
+|:--:|:--:|
+|✅|✅|
+
 A mod to skip through songs by double tapping up or down, similar to arcade.
 
 Supports Mono and IL2CPP versions of the game.
